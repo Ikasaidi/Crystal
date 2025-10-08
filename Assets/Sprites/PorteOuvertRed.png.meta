@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: bd11afc8ca4b05c4ba7f5accf5b7f954
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7378662993745293673
+    second: PorteOuvertRed_0
+  - first:
+      213: 5565781634975488464
+    second: PorteOuvertRed_1
+  - first:
+      213: -5012680980945814007
+    second: PorteOuvertRed_2
+  - first:
+      213: 4720298047138745919
+    second: PorteOuvertRed_3
+  - first:
+      213: 537743679977254317
+    second: PorteOuvertRed_4
+  - first:
+      213: 7050936304116389598
+    second: PorteOuvertRed_5
+  - first:
+      213: 1744679464640141876
+    second: PorteOuvertRed_6
+  - first:
+      213: -5626723899332430026
+    second: PorteOuvertRed_7
+  - first:
+      213: -2602102978345543915
+    second: PorteOuvertRed_8
+  - first:
+      213: -4710702554117024886
+    second: PorteOuvertRed_9
+  - first:
+      213: -7207730810477937133
+    second: PorteOuvertRed_10
+  - first:
+      213: -6526693454975359024
+    second: PorteOuvertRed_11
+  - first:
+      213: -7913726188819877162
+    second: PorteOuvertRed_12
+  - first:
+      213: -653015960654740170
+    second: PorteOuvertRed_13
+  - first:
+      213: -6246786531021203910
+    second: PorteOuvertRed_14
+  - first:
+      213: -1653180096529518721
+    second: PorteOuvertRed_15
+  - first:
+      213: 472759578069991848
+    second: PorteOuvertRed_16
+  - first:
+      213: 661461289600603986
+    second: PorteOuvertRed_17
+  - first:
+      213: 4342021653202736474
+    second: PorteOuvertRed_18
+  - first:
+      213: 8948736517497648195
+    second: PorteOuvertRed_19
+  - first:
+      213: -5443882321314777416
+    second: PorteOuvertRed_20
+  - first:
+      213: 4326863686220926528
+    second: PorteOuvertRed_21
+  - first:
+      213: -6006556013349316481
+    second: PorteOuvertRed_22
+  - first:
+      213: -706474464028150847
+    second: PorteOuvertRed_23
+  - first:
+      213: 3696730387652430309
+    second: PorteOuvertRed_24
+  - first:
+      213: 5154127757636847837
+    second: PorteOuvertRed_25
+  - first:
+      213: -6534226407779016289
+    second: PorteOuvertRed_26
+  - first:
+      213: -3331809754374917499
+    second: PorteOuvertRed_27
+  - first:
+      213: -1331007254316099852
+    second: PorteOuvertRed_28
+  - first:
+      213: -7031497869341674865
+    second: PorteOuvertRed_29
+  - first:
+      213: 4885469389586424187
+    second: PorteOuvertRed_30
+  - first:
+      213: 1559516492763300258
+    second: PorteOuvertRed_31
+  - first:
+      213: 6133304725456425765
+    second: PorteOuvertRed_32
+  - first:
+      213: 6500983069937901384
+    second: PorteOuvertRed_33
+  - first:
+      213: 1909941403974358369
+    second: PorteOuvertRed_34
+  - first:
+      213: -4489172307398167098
+    second: PorteOuvertRed_35
+  - first:
+      213: -4235369058474483213
+    second: PorteOuvertRed_36
+  - first:
+      213: 4512018014992059402
+    second: PorteOuvertRed_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PorteOuvertRed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ecd7cd919b99990800000000000000
+      internalID: -7378662993745293673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d95b1288e0ad3d40800000000000000
+      internalID: 5565781634975488464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e3e56c4316f6ab0800000000000000
+      internalID: -5012680980945814007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eccad801ed18140800000000000000
+      internalID: 4720298047138745919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad61412703767700800000000000000
+      internalID: 537743679977254317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 820
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed653cc0635f9d160800000000000000
+      internalID: 7050936304116389598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5bc8bab8563810800000000000000
+      internalID: 1744679464640141876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f61bdc6cd9e1b0800000000000000
+      internalID: -5626723899332430026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175ab2b02973ebd0800000000000000
+      internalID: -2602102978345543915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8354534cf830aeb0800000000000000
+      internalID: -4710702554117024886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef2dc140ff8fb90800000000000000
+      internalID: -7207730810477937133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 616
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7a352f1e68c65a0800000000000000
+      internalID: -6526693454975359024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27fa1c5fbcc2290800000000000000
+      internalID: -7913726188819877162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358380917500f6f0800000000000000
+      internalID: -653015960654740170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3659c63fb4fe49a0800000000000000
+      internalID: -6246786531021203910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fac9c0679be09e0800000000000000
+      internalID: -1653180096529518721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1860bd4549f8600800000000000000
+      internalID: 472759578069991848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 412
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d05fc98bfd2900800000000000000
+      internalID: 661461289600603986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55143640b5f14c30800000000000000
+      internalID: 4342021653202736474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3447302437c403c70800000000000000
+      internalID: 8948736517497648195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f0072fd17374b0800000000000000
+      internalID: -5443882321314777416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e4cb0199b1c0c30800000000000000
+      internalID: 4326863686220926528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d3d4412d64aca0800000000000000
+      internalID: -6006556013349316481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 208
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b7b0d7391236f0800000000000000
+      internalID: -706474464028150847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94a6293bc6d4330800000000000000
+      internalID: 3696730387652430309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8cce843e3278740800000000000000
+      internalID: 5154127757636847837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ea52b3b3c155a0800000000000000
+      internalID: -6534226407779016289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823d4b5ea803c1d0800000000000000
+      internalID: -3331809754374917499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6550544ff478de0800000000000000
+      internalID: -1331007254316099852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PorteOuvertRed_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8239fa31f91b6e90800000000000000
+      internalID: -7031497869341674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 71d9a760b13388e4aae2bb773590cfde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PorteOuvertRed_0: -7378662993745293673
+      PorteOuvertRed_1: 5565781634975488464
+      PorteOuvertRed_10: -7207730810477937133
+      PorteOuvertRed_11: -6526693454975359024
+      PorteOuvertRed_12: -7913726188819877162
+      PorteOuvertRed_13: -653015960654740170
+      PorteOuvertRed_14: -6246786531021203910
+      PorteOuvertRed_15: -1653180096529518721
+      PorteOuvertRed_16: 472759578069991848
+      PorteOuvertRed_17: 661461289600603986
+      PorteOuvertRed_18: 4342021653202736474
+      PorteOuvertRed_19: 8948736517497648195
+      PorteOuvertRed_2: -5012680980945814007
+      PorteOuvertRed_20: -5443882321314777416
+      PorteOuvertRed_21: 4326863686220926528
+      PorteOuvertRed_22: -6006556013349316481
+      PorteOuvertRed_23: -706474464028150847
+      PorteOuvertRed_24: 3696730387652430309
+      PorteOuvertRed_25: 5154127757636847837
+      PorteOuvertRed_26: -6534226407779016289
+      PorteOuvertRed_27: -3331809754374917499
+      PorteOuvertRed_28: -1331007254316099852
+      PorteOuvertRed_29: -7031497869341674865
+      PorteOuvertRed_3: 4720298047138745919
+      PorteOuvertRed_4: 537743679977254317
+      PorteOuvertRed_5: 7050936304116389598
+      PorteOuvertRed_6: 1744679464640141876
+      PorteOuvertRed_7: -5626723899332430026
+      PorteOuvertRed_8: -2602102978345543915
+      PorteOuvertRed_9: -4710702554117024886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
